@@ -2063,5 +2063,27 @@
   "episodeCount": 8,
   "seasons": 1,
   "releaseDate": "27 September 2019"
-}
+},
+ {
+  "id": 106,
+
+  "name": "Bose: Dead/Alive",
+  "rating": 8.6,
+  "description": "On 18 August 1945 after his overloaded Japanese plane crashed in Japanese-occupied Formosa (now Taiwan) Netaji Subhas Chandra Bose (Rajkumar Rao) is presumed dead. However his family in Kolkata receive a telegram from Mahatma Gandhi to not conduct his last rites. It then begins with speculation about his death and other characters who suggest how he has vanished in the past as well, with all of them suggesting his possible return.",
+  "category": ["	Historical period drama"],
+  "platform": ["MX Player","ALT Balaji"],
+  "casting": {
+      "actors": [
+          "Rajkummar Rao ",
+          "Naveen Kasturia ",
+          "Edward Sonnenblick",
+          "Anna Ador"
+      ],
+      "director": ["Pulkit"]
+  },
+  "poster": "https://en.wikipedia.org/wiki/Bose:_Dead/Alive#/media/File:Bose_-_Poster.jpg",
+  "episodeCount": 9,
+  "seasons": 1,
+  "releaseDate": "20 November 2017"
+},
 ]
